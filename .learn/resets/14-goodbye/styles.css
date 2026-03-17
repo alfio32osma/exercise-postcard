@@ -13,11 +13,8 @@ body {
 }
 .postcard-header {
 	display: flex;
-<<<<<<< HEAD
 	font-family: "Caveat", cursive;
 	margin: 10px 0px 0px 5px;
-=======
->>>>>>> fc213a5 (Cleanup: Se movió el generador de excusas fuera de este proyecto)
 }
 .postcard-header img {
 	width: 50px;
@@ -32,10 +29,7 @@ body {
 }
 .body-left {
 	padding: 5px;
-<<<<<<< HEAD
 	font-family: "Caveat";
-=======
->>>>>>> fc213a5 (Cleanup: Se movió el generador de excusas fuera de este proyecto)
 }
 .body-left p:first-child {
 	margin-top: 0px;
@@ -46,28 +40,17 @@ body {
 input {
 	border: 20px;
 	border-bottom: 20px;
-<<<<<<< HEAD
 	font-size: 13px;
 	text-decoration: underline;
 	font-family: "Caveat", cursive;
-=======
-	text-decoration-line: underline;
-	color: gainsboro;
-	font-size: 13px;
->>>>>>> fc213a5 (Cleanup: Se movió el generador de excusas fuera de este proyecto)
 }
 .postcard-footer {
 	text-align: center;
 }
-<<<<<<< HEAD
 button {
 	background-color: darkgray;
 	font-family: "Caveat", cursive;
 	padding: 5px;
 	font-size: small;
 	border-radius: 5px;
-=======
-.button {
-	background-color: green;
->>>>>>> fc213a5 (Cleanup: Se movió el generador de excusas fuera de este proyecto)
 }
